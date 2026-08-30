@@ -62,7 +62,7 @@ Halo, saya **Muhammad Afiq Abrar**, biasa dipanggil **Afiq**. Saya mahasiswa jur
 <img src="https://raw.githubusercontent.com/afiq070905/afiq070905/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> Catatan: animasi snake ini butuh setup GitHub Action tambahan di repo — bisa dilewati dulu kalau belum sempat, tidak wajib.
+
 
 ## 🔗 Social Media
 
